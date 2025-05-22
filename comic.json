@@ -12,7 +12,9 @@
   "chapters": [
     {
       "id": "ch_1",
-      "panels": []
+      "panels": [
+        "img_1.jpg"
+      ]
     }
   ]
 }
